@@ -113,10 +113,10 @@ flutter:
     - assets/image/darkmode/
     - assets/translations/
     - assets/
-    - assets/image/bank
-    - assets/image/benefit
-    - assets/image/credit_card
-    - assets/image/stock
+    - assets/image/bank/
+    - assets/image/benefit/
+    - assets/image/credit_card/
+    - assets/image/stock/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

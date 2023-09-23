@@ -1,2 +1,2 @@
 
-const basePath = 'assets/image';
+const String basePath = 'assets/image';
